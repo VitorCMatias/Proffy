@@ -62,3 +62,11 @@ body, input, button, textarea {
     width: 90vw;
     height: 700px;
 }
+
+
+
+@media (min-width: 700px) {
+    :root {
+        font-size: 62.5%; /*Todo 1rem será relativo a 16px*/
+    }
+}
